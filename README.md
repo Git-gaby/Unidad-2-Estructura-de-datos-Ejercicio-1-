@@ -42,31 +42,6 @@ El programa permite:
 - Stack (`java.util.Stack`)
 - Scanner (`java.util.Scanner`)
 
-## Estructura del proyecto
-
-```
-Ejercicio1/
-│
-├── Contenedor.java
-└── Deposito.java
-```
-
-## Ejecución
-
-1. Compilar los archivos Java.
-
-```bash
-javac *.java
-```
-
-2. Ejecutar el programa.
-
-```bash
-java Deposito
-```
-
-3. Utilizar el menú interactivo para gestionar los contenedores.
-
 ## Autor(es)
 
 Gabriel Jaime Gómez Restrepo 
